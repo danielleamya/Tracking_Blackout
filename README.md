@@ -1,6 +1,6 @@
 # Tracking_Blackout
 
-![](Tracking_Blackout/Documentation/Screenshot.png)
+![](https://raw.githubusercontent.com/danielleamya/Tracking_Blackout/master/Documentation/Screenshot.png)
 Demo Video: https://www.youtube.com/watch?v=frbWAHFnqe8&feature=youtu.be
 
 B L A C K O U T
